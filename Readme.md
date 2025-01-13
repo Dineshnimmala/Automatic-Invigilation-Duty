@@ -1,7 +1,5 @@
 
-Below is a `README.md` file for your project setup instructions:
 
-```markdown
 # Automation in Invigilation Duty
 
 The Automatic Invigilation Duty Assignment System is designed to automate the process of assigning invigilation duties for examinations. This system streamlines the task allocation process, ensuring fair distribution of responsibilities among staff members, while considering factors like availability, preferences, and workload balance..
@@ -16,9 +14,8 @@ Before you begin, ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 Clone the project repository to your local system using the following command:
-```bash
+
 git https://github.com/Dineshnimmala/Automatic-Invigilation-Duty.git
-```
 
 ### Step 2: Move the Folder
 Move the folder `Automatic-Invigilation-Duty` to the appropriate directory:
